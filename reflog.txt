@@ -1,0 +1,63 @@
+81d947a HEAD@{0}: merge develop: Merge made by the 'recursive' strategy.
+520ad06 HEAD@{1}: checkout: moving from develop to main
+5876038 HEAD@{2}: merge advancedOperation: Fast-forward
+e700d1c HEAD@{3}: checkout: moving from advancedOperation to develop
+5876038 HEAD@{4}: commit: insert from grandparent commit
+7b2fe39 HEAD@{5}: checkout: moving from 9236b4f632201967063bf7158e688d3067545722 to advancedOperation
+9236b4f HEAD@{6}: checkout: moving from advancedOperation to 9236b4f632201967063bf7158e688d3067545722
+7b2fe39 HEAD@{7}: commit: add with 4 params
+25b6a62 HEAD@{8}: commit: add with 3 params
+9236b4f HEAD@{9}: commit: add with 2 params
+e700d1c HEAD@{10}: checkout: moving from develop to advancedOperation
+e700d1c HEAD@{11}: merge otherOperation: Fast-forward
+6165a8b HEAD@{12}: checkout: moving from otherOperation to develop
+e700d1c HEAD@{13}: rebase -i (finish): returning to refs/heads/otherOperation
+e700d1c HEAD@{14}: rebase -i (squash): add calculator implementation
+6f71952 HEAD@{15}: rebase -i (squash): # This is a combination of 3 commits.
+f7a0bfa HEAD@{16}: rebase -i (squash): # This is a combination of 2 commits.
+37ed54d HEAD@{17}: rebase -i (start): checkout HEAD~4
+059b275 HEAD@{18}: commit: add sqrt again
+358cd66 HEAD@{19}: reset: moving to HEAD~1
+387f60f HEAD@{20}: commit: add sqrt
+358cd66 HEAD@{21}: commit: add mult operation
+d561299 HEAD@{22}: commit: add div operation
+37ed54d HEAD@{23}: commit: add sub operation
+6165a8b HEAD@{24}: checkout: moving from develop to otherOperation
+6165a8b HEAD@{25}: commit: add calculator class
+e976677 HEAD@{26}: checkout: moving from main to develop
+520ad06 HEAD@{27}: commit: update readme
+e976677 HEAD@{28}: merge develop: Fast-forward
+3ea2317 HEAD@{29}: checkout: moving from develop to main
+e976677 HEAD@{30}: merge styles-rebase: Fast-forward
+f3cba09 HEAD@{31}: checkout: moving from styles-rebase to develop
+e976677 HEAD@{32}: rebase finished: returning to refs/heads/styles-rebase
+e976677 HEAD@{33}: rebase: add img styles
+f3cba09 HEAD@{34}: rebase: checkout develop
+9265e62 HEAD@{35}: checkout: moving from develop to styles-rebase
+f3cba09 HEAD@{36}: merge images-rebase: Fast-forward
+3ea2317 HEAD@{37}: checkout: moving from images-rebase to develop
+f3cba09 HEAD@{38}: checkout: moving from develop to images-rebase
+3ea2317 HEAD@{39}: checkout: moving from styles-rebase to develop
+9265e62 HEAD@{40}: commit: add img styles
+3ea2317 HEAD@{41}: checkout: moving from develop to styles-rebase
+3ea2317 HEAD@{42}: checkout: moving from images-rebase to develop
+f3cba09 HEAD@{43}: commit: add new iamge
+1a2db3f HEAD@{44}: commit: remove some images
+3ea2317 HEAD@{45}: checkout: moving from develop to images-rebase
+3ea2317 HEAD@{46}: checkout: moving from main to develop
+3ea2317 HEAD@{47}: merge develop: Fast-forward
+66aee6e HEAD@{48}: checkout: moving from develop to main
+3ea2317 HEAD@{49}: commit (merge): resolve conflicts
+dc0bb1a HEAD@{50}: merge images: Fast-forward
+7cf767e HEAD@{51}: checkout: moving from styles to develop
+f7b924e HEAD@{52}: commit: add styles
+bdd64f7 HEAD@{53}: commit: add styles
+7cf767e HEAD@{54}: checkout: moving from develop to styles
+7cf767e HEAD@{55}: checkout: moving from images to develop
+dc0bb1a HEAD@{56}: commit: add src inside html file
+54b39d4 HEAD@{57}: commit: add images
+7cf767e HEAD@{58}: checkout: moving from develop to images
+7cf767e HEAD@{59}: commit: add empty html file
+66aee6e HEAD@{60}: checkout: moving from main to develop
+66aee6e HEAD@{61}: commit: init commit
+df92b60 HEAD@{62}: clone: from https://github.com/artsiompeshko/java-basics-mentoring-program.git
