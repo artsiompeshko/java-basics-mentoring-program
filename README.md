@@ -1,1 +1,1 @@
-Initial commit
+# Java mentoring program
